@@ -1,1 +1,1 @@
-# guess-my-number
+# greedy-pig
